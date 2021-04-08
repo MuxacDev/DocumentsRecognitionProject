@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RecognitionAppPython", "RecognitionApp\RecognitionAppPython.pyproj", "{E1EE3DA8-F369-4AB0-B46E-4E0AC8A758D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesseractAppTest", "TesseractAppTest\TesseractAppTest.csproj", "{D11E0FC8-519D-48ED-97F3-F8A5DB559023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EE3DA8-F369-4AB0-B46E-4E0AC8A758D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EE3DA8-F369-4AB0-B46E-4E0AC8A758D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11E0FC8-519D-48ED-97F3-F8A5DB559023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11E0FC8-519D-48ED-97F3-F8A5DB559023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11E0FC8-519D-48ED-97F3-F8A5DB559023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11E0FC8-519D-48ED-97F3-F8A5DB559023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637A5432-B1F3-47FC-9150-17929890BE16}
+	EndGlobalSection
+EndGlobal
